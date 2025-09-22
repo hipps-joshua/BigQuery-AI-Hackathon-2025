@@ -1,0 +1,31 @@
+# OS/Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs and outputs
+*.log
+logs/
+*.jsonl
+*_results_*/
+competition_results_*/
+real_data_results_*/
+bigquery_ai_tests_*/
+
+# Credentials (never commit)
+credentials/
+*.json
+*.key
+service-account-key.json
+
+# Temps
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Explicitly exclude video voiceover (not part of submission)
+VIDEO_VOICEOVER.md

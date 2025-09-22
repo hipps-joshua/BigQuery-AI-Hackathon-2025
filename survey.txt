@@ -1,0 +1,24 @@
+BigQuery AI Hackathon - User Survey
+
+1) Team experience with BigQuery AI
+   - Josh Hipps: Learned during hackathon
+
+2) Team experience with Google Cloud
+   - Josh Hipps: 1 year
+
+3) Feedback on BigQuery AI (what worked / friction)
+   Positive:
+   - Native SQL functions for LLMs feel natural in BigQuery
+   - Vector search + embeddings integrated well with analytics
+   - Multimodal via Object Tables/vision is powerful for real cases
+
+   Challenges / Suggestions:
+   - Initial connection + permissions setup can be confusing
+   - More consistent function naming across AI/ML namespaces
+   - Better tooling for prompt/version testing and cost observability
+
+   Feature Requests:
+   - First-class template/workflow orchestration in BigQuery
+   - Built-in hallucination detection metrics
+   - Easier region/endpoint selection and validation helpers
+

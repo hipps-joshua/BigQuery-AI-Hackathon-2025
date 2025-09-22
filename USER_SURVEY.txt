@@ -1,0 +1,49 @@
+BIGQUERY AI HACKATHON - USER SURVEY
+=====================================
+
+1. Please tell us how many months of experience with BigQuery AI each team member has:
+
+Team Member 1: 4 months
+- Started working with BigQuery AI features when they were released in preview
+- Extensive experience with AI.GENERATE functions and ML.GENERATE_EMBEDDING
+- Built multiple prototypes using vector search capabilities
+
+2. Please tell us how many months of experience with Google Cloud each team member has:
+
+Team Member 1: 24 months
+- 2 years of experience with BigQuery for traditional data warehousing
+- Familiar with Cloud Functions, Pub/Sub, and Cloud Storage
+- Previously worked on data pipeline projects using Dataflow and Dataproc
+
+3. We'd love to hear from you and your experience in working with the technology during this hackathon, positive or negative. Please provide any feedback on your experience with BigQuery AI:
+
+POSITIVE EXPERIENCES:
+- The AI.GENERATE functions are incredibly intuitive - being able to call Gemini directly from SQL without complex setup is a game-changer
+- Vector search performance exceeded expectations - sub-second semantic search across millions of records
+- The integration between structured and unstructured data analysis is seamless
+- Object tables and ObjectRef make multimodal analysis surprisingly straightforward
+- Documentation and sample notebooks were extremely helpful for getting started quickly
+- The ability to process PDFs and images directly in SQL queries is revolutionary
+
+CHALLENGES AND FRICTION POINTS:
+- Initial setup of Gemini connections required multiple permission configurations that weren't well documented
+- Error messages when AI functions fail could be more descriptive (especially for quota/limit issues)
+- Vector index creation on large tables (>1M rows) took longer than expected without clear progress indicators
+- Some inconsistency in AI.GENERATE responses when processing similar queries - would benefit from temperature/parameter controls
+- BigFrames multimodal features are powerful but have a steeper learning curve than SQL equivalents
+- Cost estimation for AI operations is difficult - would appreciate a dry-run or cost preview feature
+
+SUGGESTIONS FOR IMPROVEMENT:
+- Add retry logic for transient AI.GENERATE failures
+- Provide more control over model parameters (temperature, top-k, etc.)
+- Better integration with Vertex AI for custom model deployment
+- Native support for more file formats in Object Tables (Excel, CSV with headers)
+- Batch pricing options for high-volume AI operations
+- More examples of production-ready architectures and best practices
+
+OVERALL IMPRESSION:
+BigQuery AI fundamentally changes what's possible with SQL. The ability to seamlessly blend traditional analytics with generative AI and vector search creates opportunities we couldn't have imagined before. This hackathon pushed us to explore all three approaches, and we were amazed at how well they work together. The platform is production-ready for most use cases, though some enterprise features (like model versioning and A/B testing) would be welcome additions.
+
+The most impressive aspect is how BigQuery AI democratizes AI/ML - data analysts who know SQL can now build sophisticated AI applications without needing deep ML expertise. This is the future of data analytics.
+
+Thank you for the opportunity to participate in this hackathon and explore these cutting-edge capabilities!

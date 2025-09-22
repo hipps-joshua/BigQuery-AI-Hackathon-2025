@@ -1,0 +1,21 @@
+sku,brand_name,product_name,category,subcategory,description,price,color,size,material,weight,upc,ean,model_number,in_stock,rating,review_count
+NK-001,Nike,Air Max 270 React,Footwear,Running,Innovative Air Max cushioning for all-day comfort,150.00,Black,10,Mesh,280g,195237854123,,AM270R,true,4.5,234
+NIKE-270-BLK,NIKE,Nike Air Max 270 React Men's Shoe,Shoes,Running,The Nike Air Max 270 React delivers unrivaled all-day comfort,149.99,Black/White,10,,285g,195237854123,,AM270R,true,4.6,312
+AM270-REACT,Nike Inc.,Air Max 270 React - Black,footwear,Athletic,Comfort meets style with Air Max technology,145.00,Blk/Wht,10,Synthetic,275g,,,AM270-BK,true,4.4,189
+AD-UB-001,adidas,Ultraboost 22,Running,Performance,Energy-returning cushioning for long runs,180.00,Core Black,9.5,Primeknit,290g,,4062059572224,GX5593,true,4.7,567
+ADIDAS-UB22,Adidas,Ultra Boost 22 Running Shoe,Athletic Footwear,Running,Premium running shoe with boost technology,179.99,Black,9.5,Knit Upper,295g,,4062059572224,GX5593,true,4.8,423
+NK-REACT-55,Nike,React Element 55,Lifestyle,Casual,Lightweight lifestyle shoe with React foam,130.00,Black,10,Mesh/Synthetic,250g,195237999888,,BQ6166,true,4.3,156
+AD-NMD-R1,adidas,NMD_R1,Lifestyle,Street,Street-ready shoes with boost cushioning,140.00,Core Black,10,Primeknit,265g,,4062059576222,GZ9256,true,4.5,278
+NB-990-V5,New Balance,990v5,Running,Performance,Premium Made in USA running shoe,185.00,Grey,10.5,Suede/Mesh,340g,195237111222,,M990GL5,true,4.9,892
+PU-RS-X3,Puma,RS-X³,Lifestyle,Chunky,Bold sneaker with RS cushioning,110.00,Multi,9,Mesh/Leather,320g,195237333444,,371860,true,4.2,134
+RB-CL-85,Reebok,Club C 85,Classic,Court,Timeless court shoe design,75.00,White,8.5,Leather,310g,,4058027732646,AR0456,true,4.4,445
+ASI-GEL-K28,ASICS,Gel-Kayano 28,Running,Stability,Stability running shoe with gel cushioning,160.00,Blue/Orange,11,Engineered Mesh,315g,195237666777,,1011B189,true,4.6,334
+UA-HOVR-P2,Under Armour,HOVR Phantom 2,Running,Neutral,Connected running shoes with UA HOVR,140.00,Black,9,Knit,305g,,195252569853,3022590,true,4.3,223
+SAU-END-SP2,Saucony,Endorphin Speed 2,Running,Performance,Fast training shoe with PWRRUN PB,160.00,White/Black,10,Mesh,230g,195237888999,,S20688,true,4.7,412
+BR-GHOST-14,Brooks,Ghost 14,Running,Neutral,Smooth transitions for everyday runs,140.00,Navy/Gold,9.5,Mesh,281g,,195394048359,1103511D,true,4.5,668
+HOK-CLIF-8,Hoka One One,Clifton 8,Running,Cushioned,Lightweight daily trainer with max cushion,140.00,Blue Fog,10,Mesh,250g,195237222333,,1119393,true,4.6,789
+MIZ-WR-25,Mizuno,Wave Rider 25,Running,Neutral,Smooth riding shoe with wave plate,150.00,Black/Silver,10,Mesh,285g,,195237444555,,J1GC2103,true,4.4,356
+ON-CLOUD-3,On,Cloudflow 3,Running,Performance,Fast training shoe with CloudTec,150.00,All Black,8.5,Mesh,235g,195237555666,,3599238,true,4.5,245
+SAL-SPEED-5,Salomon,Speedcross 5,Trail,Trail Running,Aggressive trail shoe for technical terrain,130.00,Black/Red,11,Synthetic,330g,,195237777888,L40684100,true,4.7,567
+ALT-TOR-5,Altra,Torin 5,Running,Zero Drop,Natural running shoe with FootShape toe box,150.00,Gray,10,Mesh,278g,195237999111,,AL0A547L,true,4.3,189
+VF-VAPRFLY3,Nike,Vaporfly 3,Running,Racing,Elite racing shoe with carbon plate,260.00,Volt/Black,9,Mesh,190g,195237000222,,DV4129,true,4.9,98

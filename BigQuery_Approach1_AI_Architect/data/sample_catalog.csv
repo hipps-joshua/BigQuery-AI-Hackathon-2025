@@ -1,0 +1,21 @@
+sku,brand_name,product_name,category,subcategory,description,price,color,size,material,weight,image_url
+SKU001,Nike,Air Max 270,Footwear,Running,Innovative Air Max shoe,149.99,Black/White,10,Mesh/Synthetic,280g,https://example.com/sku001.jpg
+SKU002,adidas,Ultraboost 22,shoes,Running,,179.99,Core Black,9.5,,290g,https://example.com/sku002.jpg
+SKU003,NIKE,React Infinity Run,SHOES,,,159.99,,,Flyknit,,
+SKU004,,Classic Leather Sneaker,Footwear,Lifestyle,Timeless design,89.99,White,8,Leather,320g,https://example.com/sku004.jpg
+SKU005,Puma,RS-X³,Athletic,Lifestyle,,119.99,Multi,11,,,https://example.com/sku005.jpg
+SKU006,New Balance,Fresh Foam 1080v12,,Running,Premium cushioning running shoe,159.99,Gray,10.5,Engineered Mesh,298g,
+SKU007,ASICS,Gel-Kayano 28,Running Shoes,Stability,,169.99,Blue/Orange,,Mesh/Synthetic,,https://example.com/sku007.jpg
+SKU008,Under Armour,HOVR Phantom 2,Footwear,,,139.99,Black,9,Knit,305g,
+SKU009,Reebok,Club C 85,shoes,Lifestyle,Classic court shoe,79.99,White/Green,8.5,Leather,,https://example.com/sku009.jpg
+SKU010,Saucony,Endorphin Speed 2,RUNNING,Performance,,159.99,,10,PWRRUN PB,230g,https://example.com/sku010.jpg
+SKU011,,Trail Running Shoe,Outdoor,Trail Running,Rugged trail runner,129.99,Brown,11,Synthetic/Rubber,340g,
+SKU012,Brooks,Ghost 14,Running,Neutral,,139.99,Navy/Gold,9.5,Mesh,281g,https://example.com/sku012.jpg
+SKU013,Hoka One One,Clifton 8,shoes,Running,Lightweight daily trainer,139.99,,,EVA Foam,250g,
+SKU014,Mizuno,Wave Rider 25,Running Shoes,,,149.99,Black/Silver,10,,285g,https://example.com/sku014.jpg
+SKU015,On,Cloudflow 3,Athletic,Running,,149.99,All Black,8.5,Mesh,235g,https://example.com/sku015.jpg
+SKU016,Salomon,Speedcross 5,Trail,Trail Running,Aggressive trail shoe,129.99,Black/Red,11,Synthetic,330g,
+SKU017,Altra,Torin 5,Running,Zero Drop,,149.99,Gray,10,Mesh,278g,https://example.com/sku017.jpg
+SKU018,Newton,Distance 10,RUNNING,Performance,Fast training shoe,154.99,Yellow/Black,9,Mesh,215g,
+SKU019,,Minimalist Running Shoe,Footwear,Barefoot,,89.99,Black,10.5,Mesh,180g,https://example.com/sku019.jpg
+SKU020,Merrell,Trail Glove 6,shoes,Trail,Zero drop trail shoe,119.99,Blue,8,Mesh/TPU,227g,

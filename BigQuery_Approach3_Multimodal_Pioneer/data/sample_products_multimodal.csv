@@ -1,0 +1,21 @@
+sku,product_name,brand_name,category,subcategory,listed_color,listed_size,material,price,description,image_filename,seller_name,gender,is_active,rating,inventory_count
+MM001,Classic Cotton T-Shirt,Nike,clothing,t-shirt,Red,M,Cotton,29.99,Comfortable everyday cotton t-shirt,nike_tshirt_red_001.jpg,Official Nike Store,unisex,true,4.5,250
+MM002,Running Shoes Pro,Adidas,footwear,sneakers,Black,10,Mesh/Synthetic,129.99,Professional running shoes with advanced cushioning,adidas_shoes_black_001.jpg,SportZone,men,true,4.7,180
+MM003,Organic Face Cream,L'Oreal,cosmetics,skincare,White,,Organic Ingredients,45.99,Nourishing face cream with natural ingredients,loreal_cream_001.jpg,BeautyHub,women,true,4.3,320
+MM004,Wireless Headphones,Sony,electronics,audio,Black,,Plastic/Metal,199.99,High-quality wireless headphones with noise cancellation,sony_headphones_001.jpg,TechWorld,unisex,true,4.8,150
+MM005,Children's Building Blocks,LEGO,toys,educational,Multi,,Plastic,49.99,Creative building blocks set for ages 4-12,lego_blocks_001.jpg,ToyKingdom,kids,true,4.9,200
+MM006,Organic Baby Food,Gerber,food,baby_food,,,Organic,3.99,Nutritious organic baby food puree,gerber_babyfood_001.jpg,BabyMart,baby,true,4.6,500
+MM007,Yoga Mat Premium,Liforme,sports,yoga,Purple,6mm,Natural Rubber,89.99,Premium eco-friendly yoga mat with alignment guides,liforme_yogamat_001.jpg,YogaStore,unisex,true,4.7,120
+MM008,Smart Watch Sport,Apple,electronics,wearables,Space Gray,42mm,Aluminum/Silicon,399.99,Advanced fitness tracking smartwatch,apple_watch_001.jpg,Apple Store,unisex,true,4.8,95
+MM009,Leather Handbag,Coach,accessories,bags,Brown,,Genuine Leather,295.00,Luxury leather handbag with multiple compartments,coach_handbag_001.jpg,LuxuryGoods,women,true,4.5,75
+MM010,Gaming Keyboard RGB,Razer,electronics,gaming,Black,,Plastic/Metal,149.99,Mechanical gaming keyboard with RGB lighting,razer_keyboard_001.jpg,GamerHub,unisex,true,4.6,180
+MM011,Organic Green Tea,Twinings,food,beverages,Green,,Organic Tea Leaves,12.99,Premium organic green tea bags,twinings_tea_001.jpg,TeaHouse,unisex,true,4.4,400
+MM012,Winter Jacket Insulated,North Face,clothing,outerwear,Navy,L,Polyester/Down,249.99,Warm winter jacket for extreme conditions,northface_jacket_001.jpg,OutdoorPro,men,true,4.7,110
+MM013,Makeup Palette Professional,MAC,cosmetics,makeup,Multi,,Powder,65.00,Professional eyeshadow palette with 12 colors,mac_palette_001.jpg,BeautyPro,women,true,4.6,280
+MM014,Electric Toothbrush,Oral-B,electronics,personal_care,White,,Plastic,79.99,Advanced electric toothbrush with smart features,oralb_toothbrush_001.jpg,HealthStore,unisex,true,4.5,220
+MM015,Board Game Classic,Hasbro,toys,board_games,Multi,,Cardboard/Plastic,29.99,Family board game for 2-6 players ages 8+,hasbro_boardgame_001.jpg,GameCentral,family,true,4.7,150
+MM016,Protein Powder Vanilla,Optimum,food,supplements,White,,Whey Protein,54.99,Premium whey protein powder for fitness,optimum_protein_001.jpg,FitnessHub,unisex,true,4.6,300
+MM017,Denim Jeans Slim Fit,Levi's,clothing,pants,Blue,32x32,Denim,89.99,Classic slim fit denim jeans,levis_jeans_001.jpg,DenimWorld,men,true,4.5,190
+MM018,Sunscreen SPF 50,Neutrogena,cosmetics,skincare,White,,Chemical/Physical,15.99,Broad spectrum sunscreen for sensitive skin,neutrogena_sunscreen_001.jpg,SkinCare Plus,unisex,true,4.4,450
+MM019,Bluetooth Speaker,JBL,electronics,audio,Red,,Plastic/Fabric,99.99,Portable waterproof bluetooth speaker,jbl_speaker_001.jpg,AudioZone,unisex,true,4.7,160
+MM020,Kids Bicycle 16inch,Schwinn,sports,bicycles,Pink,16 inch,Steel/Plastic,179.99,Children's bicycle with training wheels ages 4-6,schwinn_bike_001.jpg,BikeShop,kids,true,4.6,85

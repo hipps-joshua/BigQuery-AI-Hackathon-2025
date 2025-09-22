@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="640" viewBox="0 0 1100 640" font-family="Inter, Arial, Helvetica, sans-serif">
+  <defs>
+    <style>
+      .title { font-size: 20px; font-weight: 700; fill: #0d47a1; }
+      .label { font-size: 14px; font-weight: 600; fill: #263238; }
+      .small { font-size: 12px; fill: #37474f; }
+      .box { stroke-width: 2; stroke: #263238; rx: 8; ry: 8; }
+      .arrow { stroke: #455a64; stroke-width: 2.5; marker-end: url(#arrowhead); fill: none; }
+    </style>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#455a64" />
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="550" y="36" text-anchor="middle" class="title">BigQuery AI — Enterprise Data Chaos Solution (us-central1)</text>
+
+  <!-- Row 1: Sources -->
+  <rect class="box" x="40" y="70" width="240" height="90" fill="#e1f5fe" />
+  <text x="160" y="95" text-anchor="middle" class="label">Data Sources</text>
+  <text x="160" y="118" text-anchor="middle" class="small">GitHub • Stack Overflow • Support</text>
+  <text x="160" y="138" text-anchor="middle" class="small">Emails • PDFs • Images</text>
+
+  <!-- Row 2: BigQuery Storage Layer -->
+  <rect class="box" x="350" y="70" width="300" height="90" fill="#e8f5e9" />
+  <text x="500" y="95" text-anchor="middle" class="label">BigQuery Storage</text>
+  <text x="500" y="118" text-anchor="middle" class="small">Tables (structured)</text>
+  <text x="500" y="138" text-anchor="middle" class="small">External Object Tables (GCS)</text>
+
+  <!-- Row 3: Gemini Connection / Models -->
+  <rect class="box" x="720" y="70" width="340" height="90" fill="#fff8e1" />
+  <text x="890" y="95" text-anchor="middle" class="label">Gemini Connection</text>
+  <text x="890" y="118" text-anchor="middle" class="small">bigquery-ai-hackathon-2025.us-central1.gemini_connection</text>
+  <text x="890" y="138" text-anchor="middle" class="small">text generation • embeddings</text>
+
+  <!-- Arrows row 1 -> row 2 -> row 3 -->
+  <path class="arrow" d="M 280 115 L 350 115" />
+  <path class="arrow" d="M 650 115 L 720 115" />
+
+  <!-- Row 4: Approaches -->
+  <rect class="box" x="40" y="220" width="320" height="150" fill="#f3e5f5" />
+  <text x="200" y="245" text-anchor="middle" class="label">Approach 1 — AI Architect</text>
+  <text x="200" y="270" text-anchor="middle" class="small">AI.GENERATE • AI.GENERATE_BOOL/DOUBLE/TABLE</text>
+  <text x="200" y="290" text-anchor="middle" class="small">Summaries • Urgency • Sentiment • Extraction</text>
+  <text x="200" y="310" text-anchor="middle" class="small">Optional: ML.FORECAST (ARIMA+)</text>
+
+  <rect class="box" x="390" y="220" width="320" height="150" fill="#f3e5f5" />
+  <text x="550" y="245" text-anchor="middle" class="label">Approach 2 — Semantic Detective</text>
+  <text x="550" y="270" text-anchor="middle" class="small">ML.GENERATE_EMBEDDING • VECTOR_SEARCH</text>
+  <text x="550" y="290" text-anchor="middle" class="small">Vector index (IVF • COSINE)</text>
+  <text x="550" y="310" text-anchor="middle" class="small">Search • Dedupe • Recommendations</text>
+
+  <rect class="box" x="740" y="220" width="320" height="150" fill="#f3e5f5" />
+  <text x="900" y="245" text-anchor="middle" class="label">Approach 3 — Multimodal Pioneer</text>
+  <text x="900" y="270" text-anchor="middle" class="small">Object Tables • ObjectRef(uri)</text>
+  <text x="900" y="290" text-anchor="middle" class="small">Images • PDFs • Text</text>
+  <text x="900" y="310" text-anchor="middle" class="small">AI-generated actions</text>
+
+  <!-- Connect storage/models to approaches -->
+  <path class="arrow" d="M 500 160 L 200 220" />
+  <path class="arrow" d="M 890 160 L 200 220" />
+
+  <path class="arrow" d="M 500 160 L 550 220" />
+  <path class="arrow" d="M 890 160 L 550 220" />
+
+  <path class="arrow" d="M 500 160 L 900 220" />
+  <path class="arrow" d="M 890 160 L 900 220" />
+
+  <!-- Row 5: Delivery -->
+  <rect class="box" x="160" y="420" width="780" height="130" fill="#fce4ec" />
+  <text x="550" y="445" text-anchor="middle" class="label">Delivery & Outcomes</text>
+  <text x="550" y="470" text-anchor="middle" class="small">Dashboards • Alerts • APIs • Reports</text>
+  <text x="550" y="490" text-anchor="middle" class="small">Executive summaries • Pattern insights • Recommended actions</text>
+
+  <!-- Connect approaches to delivery -->
+  <path class="arrow" d="M 200 370 L 300 420" />
+  <path class="arrow" d="M 550 370 L 550 420" />
+  <path class="arrow" d="M 900 370 L 800 420" />
+
+  <!-- Footer note -->
+  <text x="550" y="610" text-anchor="middle" class="small">Region: us-central1 • Connection: gemini_connection • Project: bigquery-ai-hackathon-2025</text>
+</svg>
+
