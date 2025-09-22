@@ -1,5 +1,5 @@
 # BigQuery AI Hackathon – Three Complete Approaches (us-central1)
-
+- Architecture
 This repository contains three production‑leaning solutions aligned to the Kaggle “BigQuery AI – Building the Future of Data” hackathon:
 
 - Approach 1 – AI Architect: Template‑driven enrichment, validation, and forecasting
@@ -85,3 +85,7 @@ For a quick judge/demo flow (5–10 minutes), see `UPLOAD_INSTRUCTIONS.md`.
 
 ## License
 - Will comply with Kaggle winner requirements (CC BY 4.0) if awarded.
+
+## Architecture
+
+Architecture
