@@ -29,3 +29,5 @@ temp/
 
 # Explicitly exclude video voiceover (not part of submission)
 VIDEO_VOICEOVER.md
+video_demos/
+USER_SURVEY.txt
