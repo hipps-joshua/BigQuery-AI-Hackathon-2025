@@ -70,11 +70,6 @@ Notes
 - Monitoring & ROI: views and logs per approach
 - Demos: reproducible SQL, notebooks, and scripts
 
-## Submission Assets
-- Writeup draft: `WRITEUP_DRAFT.md`
-- Survey: `survey.txt`
-- Architecture overview: `ARCHITECTURE.md` (includes a diagram placeholder)
-
 ## Architecture Diagram
 See `ARCHITECTURE.md` for a high‑level diagram and links to per‑approach flows.
 
@@ -87,7 +82,3 @@ For a quick judge/demo flow (5–10 minutes), see `UPLOAD_INSTRUCTIONS.md`.
 
 ## License
 - Will comply with Kaggle winner requirements (CC BY 4.0) if awarded.
-
-## Architecture
-
-Architecture
