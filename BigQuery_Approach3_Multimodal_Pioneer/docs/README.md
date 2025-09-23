@@ -183,10 +183,6 @@ BigQuery_Approach3_Multimodal_Pioneer/
 3. **Real-time Processing** - Stream processing for new products
 4. **Custom Models** - Train specialized detection models
 
-## 🤝 Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for development guidelines.
-
 ## 📄 License
 
 This project is licensed under the Apache License 2.0.
