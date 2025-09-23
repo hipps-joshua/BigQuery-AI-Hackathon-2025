@@ -160,6 +160,12 @@ The Enterprise Data Chaos Solution demonstrates the transformative potential of 
 
 The working implementation proves that BigQuery AI can transform unstructured business data into actionable insights, with a clear path forward for completing the full multimodal, semantic-enabled solution.
 
+Judge quick-run pointers
+BigQuery connection: bigquery-ai-hackathon-2025.us-central1.gemini_connection
+Console demo (Approach 1):
+Create table and run the AI.GENERATE/BOOL/DOUBLE block from PUBLIC_NOTEBOOK.sql //or;
+CREATE OR REPLACE TABLE bigquery-ai-hackathon-2025.ai_architect_demo.issues AS SELECT 'Upload crash over 10MB' AS title,'bug' AS label UNION ALL SELECT 'Add dark mode','feature' UNION ALL SELECT 'Login timeout after 5 minutes','bug';
+SELECT title,label, AI.GENERATE(CONCAT('Summarize: ', title), CONNECTION_ID => 'bigquery-ai-hackathon-2025.us-central1.gemini_connection').result AS summary, AI.GENERATE_BOOL(CONCAT('Is this urgent: ', title), CONNECTION_ID => 'bigquery-ai-hackathon-2025.us-central1.gemini_connection').result AS is_urgent, AI.GENERATE_DOUBLE(CONCAT('Rate business impact 1-10: ', title), CONNECTION_ID => 'bigquery-ai-hackathon-2025.us-central1.gemini_connection').result AS impact FROM bigquery-ai-hackathon-2025.ai_architect_demo.issues;
 Repository: https://github.com/hipps-joshua/BigQuery-AI-Hackathon-2025
 
 License Commitment
