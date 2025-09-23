@@ -1,4 +1,4 @@
-# 🖼️ BigQuery Multimodal Pioneer - Competition Submission Guide
+# 🖼️ BigQuery Multimodal Pioneer
 
 ## 🎯 Overview
 **Approach 3: Visual Intelligence Platform for E-commerce**
