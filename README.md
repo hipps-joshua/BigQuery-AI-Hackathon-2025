@@ -1,5 +1,3 @@
-Architecture
-
 # BigQuery AI Hackathon – Three Complete Approaches (us-central1)
 
 This repository contains three production‑leaning solutions aligned to the Kaggle “BigQuery AI – Building the Future of Data” hackathon:
