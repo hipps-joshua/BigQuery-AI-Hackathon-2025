@@ -31,33 +31,6 @@ Companies have data scattered everywhere:
    - Real tech discussions and news
    - From: January 2024 onwards
 
-## 🚀 How to Run the Demo
-
-### Option 1: Step-by-Step SQL Execution
-
-```bash
-# Open BigQuery Console
-# Copy queries from: step_by_step_execution.sql
-# Run each step sequentially
-```
-
-### Option 2: Automated Shell Script
-
-```bash
-# Make script executable
-chmod +x execute_real_data_queries.sh
-
-# Run the demo
-./execute_real_data_queries.sh
-```
-
-### Option 3: Interactive Competition Demo
-
-```bash
-# Run the competition demo
-./run_competition_demo.sh
-```
-
 ## 📈 What Each Step Accomplishes
 
 ### Step 1: Data Collection
