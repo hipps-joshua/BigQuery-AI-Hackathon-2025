@@ -1,4 +1,4 @@
-# 🏗️ BigQuery AI Architect - Competition Submission Guide
+# 🏗️ BigQuery AI Architect
 
 ## 🎯 Overview
 **Approach 1: Template-Based AI Orchestration Platform**
